@@ -1,3 +1,3 @@
 # jessilejoycebonzo
 Portfolio Website
-jessilejoycebonzo.github.io
+jessilebonzo.github.io
