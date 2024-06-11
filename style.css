@@ -5,7 +5,16 @@
     --color-dark-gray: #333333;
     /* --color-light-gray: #363543; */
     --color-mid-gray: #282834;
-
+}
+.resume {
+    cursor: pointer;
+    font-size: 1rem;
+    padding: 10px 20px;
+    text-decoration: none;
+    transition: all 0.25s ease 0s;
+    color: #b71953;
+    background-color: #282834;
+    border: 1px solid #b71953;   
 }
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Lato', sans-serif;
