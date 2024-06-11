@@ -23,6 +23,19 @@ p, a, span {
     font-family: 'Lato', sans-serif;
 }
 
+.btn.content-download.button-main.button-scheme {
+    background-color: #b71953;  
+    color: white;            
+    border: none;            
+    padding: 10px 20px;     
+    text-decoration: none;   
+    border-radius: 5px;      
+}
+
+.btn.content-download.button-main.button-scheme:hover {
+    background-color: hotpink;  /* Darkens the background color on hover */
+}
+
 body {
     /* background: var(--color-light-gray); */
     /* color: #fff; */
@@ -90,7 +103,7 @@ img.blob-animation {
 }
 .divider {
     height: 2px;
-    width: 8.5rem;
+    width: 15.5rem;
     background: var(--color-hot-pink);
     margin: 32px 0;
 }
