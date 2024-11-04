@@ -3,7 +3,6 @@
     --color-hot-pink: #b71953;
     --color-dark-blue: #03002e;
     --color-dark-gray: #333333;
-    /* --color-light-gray: #363543; */
     --color-mid-gray: #282834;
 }
 .resume {
@@ -33,13 +32,9 @@ p, a, span {
 }
 
 .btn.content-download.button-main.button-scheme:hover {
-    background-color: hotpink;  /* Darkens the background color on hover */
+    background-color: hotpink;  
 }
 
-body {
-    /* background: var(--color-light-gray); */
-    /* color: #fff; */
-}
 .social-links i {
     color: var(--color-hot-pink);
 }
@@ -53,12 +48,6 @@ body {
     display: flex;
     justify-content: flex-start;
     align-items: center;
-}
-div#about-section {
-    /* margin-bottom: 200px; */
-}
-div#about-section section {
-    /* position: relative; */
 }
 .techstack {
     z-index: 1;
